@@ -1,4 +1,4 @@
-Order ID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
 1001,John Smith,Laptop,Electronics,1,1200.0,2024-06-01,Yes,UNITED STATES
 1002,Sarah Lee,Headphones,Electronics,2,150.0,2024-06-03,No,CANADA
 1003,Ali Khan,Office Chair,Furniture,1,300.0,2024-06-04,Yes,UAE
